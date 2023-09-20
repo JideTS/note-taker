@@ -26,4 +26,4 @@ UUID - Get unique strings to identify each note - GitHub ([https://github.com/jw
 
 ## Preview of the deployed application
 
-<img width="2560" alt="A preview screen capture of an application named Note-Taker" src="https://github.com/JideTS/note-taker/assets/20988563/e3d57fe3-573e-4977-b2a0-e36883f70063">
+<img width="1728" alt="A preview screen capture of an application named Note-Taker" src="https://github.com/JideTS/note-taker/assets/20988563/0034ff92-35e5-4777-bf3c-42a62edbfefd">
